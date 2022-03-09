@@ -97,7 +97,8 @@ main{
 }
 
 .search-box{
-  width: 100%;
+  width: 30%;
+  margin-left: 70px;
   margin-bottom: 30px;
 }
 
@@ -128,6 +129,7 @@ main{
   color: #FFF;
   font-size: 32px;
   font-weight: 500;
+  /*position: absolute;*/
   text-align: center;
   text-shadow: 1px 3px rgba(0, 0, 0, 0.25);
 }
